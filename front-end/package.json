@@ -31,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- `npm install` to install dependecies  - `npm start` to start project",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
